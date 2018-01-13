@@ -12,11 +12,14 @@ Date: 12 Jan 2018
 - ebrahim.amq@gmail.com
 
 
-----------
+
+
+| USB Shield               |ESP32                          |Function                        |
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
 
 
 
