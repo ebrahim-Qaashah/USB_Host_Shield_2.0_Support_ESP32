@@ -18,8 +18,12 @@ Date: 12 Jan 2018
 |----------------|-------------------------------|-----------------------------|
 | VCC |  3.3V  | Power |
 | GND |  GND   | Power |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| D9       |        |       |
+|-- D10 --|  |   |
+|-- D11 --|  |   |
+|-- D12 --|  |   |
+|-- D13 --|  |   |
+|          |  |   |
 
 
 
